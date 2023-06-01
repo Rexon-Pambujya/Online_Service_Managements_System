@@ -1,6 +1,9 @@
 # Online_Service_Managements_System
 Online Service Managements System is a Platform for Customers to get the electrical equipment's repaired at an ease also it is a system where people can get the jobs which they are skilled at to perform repairing services.
 
+# Give it a Star
+**If you find this repo useful , give it a star so as many people can get to know it.**
+
 # Output
 **Home Page**
 ![image25](https://github.com/Rexon-Pambujya/Online_Service_Managements_System/assets/81875310/767862da-160f-447f-b77a-4cc296cecc3b)

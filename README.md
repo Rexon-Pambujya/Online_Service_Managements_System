@@ -49,4 +49,34 @@ Online Service Managements System is a Platform for Customers to get the electri
 **Customer Profile**
 ![image2](https://github.com/Rexon-Pambujya/Online_Service_Managements_System/assets/81875310/bc2dce80-f3d3-4221-a841-ceb0f650c6fe)
 
+
 **Send Request**
+![image10](https://github.com/Rexon-Pambujya/Online_Service_Managements_System/assets/81875310/2ea21e50-c781-4045-8ce2-69461949e5bd)
+
+
+**Check Request Status**
+![image24](https://github.com/Rexon-Pambujya/Online_Service_Managements_System/assets/81875310/d096b050-0087-4bf2-bdcd-21bbff80306b)
+
+
+**Change Password**
+![image27](https://github.com/Rexon-Pambujya/Online_Service_Managements_System/assets/81875310/db7ea405-b9f0-42e6-8479-b637b548a006)
+
+
+**Technician Login**
+![image7](https://github.com/Rexon-Pambujya/Online_Service_Managements_System/assets/81875310/fb68e613-bf3f-4b95-918e-037c29fa035e)
+
+
+**Technician Profile**
+![image20](https://github.com/Rexon-Pambujya/Online_Service_Managements_System/assets/81875310/606f66fa-7883-4130-b023-e572968a0c3f)
+
+
+**Provide Service**
+![image3](https://github.com/Rexon-Pambujya/Online_Service_Managements_System/assets/81875310/103bbf3b-123f-45e6-ade3-b5726ca7dbdb)
+
+
+**Work Assigned**
+![image8](https://github.com/Rexon-Pambujya/Online_Service_Managements_System/assets/81875310/ed668e54-d2fb-409b-88ec-f768b9ec192e)
+
+
+**Change Password**
+![image19](https://github.com/Rexon-Pambujya/Online_Service_Managements_System/assets/81875310/7389fa39-cf0e-4db8-86b6-ec767f612749)
